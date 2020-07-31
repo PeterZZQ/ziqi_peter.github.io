@@ -7,7 +7,7 @@ tags:
   - GSCS
 ---
 
-I did a small presentation about our group's work. A little nervious and speaked a little bit fast. Anyway, I'll learn.:p
+I did a small presentation about our group's work. A little nervous and speaked a little bit fast. Anyway, I'll learn.:p
 <p align="center">
   <img src = "http://PeterZZQ.github.io/images/pic_emory.png" width = "600ptx"/>
 </p>
