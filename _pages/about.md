@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-  <img src = "http://PeterZZQ.github.io/images/profile_large.jpeg" width = "700ptx"/>
+  <img src = "http://PeterZZQ.github.io/images/D3D96813-BEC7-46D7-9572-936988E64777.jpeg" width = "700ptx"/>
 </p>
 
 
