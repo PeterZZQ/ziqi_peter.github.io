@@ -14,13 +14,6 @@ Education
 * B.S. in Electronic and Information Engineering, Beihang University (BUAA), 2019
 * M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, 2021 (expected)
 * Ph.D in Computational Science and Engineering, Georgia Institute of Technology, 202* (life is full of uncertainty...)
-
-Work experience
-======
-* Fall 2019: Software Engineering Intern
-  * Institute of Automation, Chinese Academy of Science
-  * Duties included: Image processing using Python and OpenCV
-  * Supervisor: Prof. Chunheng Wang
   
 Skills
 ======
