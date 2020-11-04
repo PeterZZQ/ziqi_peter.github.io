@@ -86,7 +86,7 @@ author:
   location         : "CODA S1224, Atlanta, GA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=dB6AtwgAAAAJ&hl=en&oi=ao"
+  # googlescholar    : "https://scholar.google.com/citations?user=dB6AtwgAAAAJ&hl=en&oi=ao"
   email            : "ziqi.zhang@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
