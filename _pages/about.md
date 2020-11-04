@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! Thanks for checking my page! 
 
-I'm Ziqi Zhang(张子琪). Many friends find it hard to pronounce my name correctly, then you can also call me Peter:P 
+I'm Ziqi Zhang(张子琪).
 
 I'm a Ph.D. student in [the School of Computational Science and Engineering, Georgia Institute of Technology](https://cse.gatech.edu). Before that, I was an undergraduate student in Beidou Honor Class, the department of Electronic and Information Engineering, [Beihang University](https://ev.buaa.edu.cn). 
 
