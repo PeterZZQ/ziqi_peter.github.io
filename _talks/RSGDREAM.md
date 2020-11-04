@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/RSGDREAM
 venue: ""
-date: 2020-02-29
+date: 2020-11-06
 location: "Atlanta, GA"
 ---
 
